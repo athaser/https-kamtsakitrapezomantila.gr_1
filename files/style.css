@@ -80,6 +80,7 @@ h1 {
 	margin: .67em 0
 }
 
+
 figure {
 	margin: 1em 40px
 }
@@ -625,6 +626,13 @@ body.link-underline a svg {
 #lab-main .inside-container {
 	padding: 5em
 }
+
+#etairia p {
+	padding: 5em;
+	text-align: justify;
+}
+#textt p {text-align: justify;}
+
 
 .lab-container:before,
 .lab-container:after {
